@@ -1,0 +1,7 @@
+Fisier test 2
+git add file1 file2
+working directory
+staging area
+Repository
+
+test mesaj commit

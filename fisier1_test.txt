@@ -1,0 +1,28 @@
+fisier de test
+exemplu commit
+git commit -m "my message"
+
+browser automation
+web automation
+
+test modification
+
+new repository created 
+Alphabets
+a
+b
+c
+d
+e
+f
+g
+
+Numbers 
+1
+2
+3
+4
+5
+6
+
+
